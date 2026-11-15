@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time=86000, Data Out=1, Empty=0
+Time=96000, Data Out=2, Empty=0
+Time=106000, Data Out=3, Empty=0
+Time=116000, Data Out=4, Empty=0
+Time=126000, Data Out=5, Empty=1
+$finish called at time : 150 ns : File "A:/verilog_experiments/Synchronizer FIFO Using Verilog HDL/Synchronizer FIFO Using Verilog HDL.srcs/sim_1/new/tb_synchronizer_fifo.v" Line 77
